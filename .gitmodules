@@ -1,0 +1,3 @@
+[submodule "algorithm-exercises"]
+	path = algorithm-exercises
+	url = https://github.com/Devrother/algorithm-exercises

@@ -1,3 +1,12 @@
 [submodule "algorithm-exercises"]
 	path = algorithm-exercises
 	url = https://github.com/Devrother/algorithm-exercises
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/SeungUkLee/LeetCode
+[submodule "Codewars"]
+	path = Codewars
+	url = https://github.com/SeungUkLee/Codewars
+[submodule "project-euler"]
+	path = project-euler
+	url = https://github.com/SeungUkLee/project-euler

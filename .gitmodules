@@ -10,3 +10,6 @@
 [submodule "project-euler"]
 	path = project-euler
 	url = https://github.com/SeungUkLee/project-euler
+[submodule "HackerRank"]
+	path = HackerRank
+	url = https://github.com/SeungUkLee/HackerRank
